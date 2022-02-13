@@ -1,0 +1,9 @@
+SYSTEM: 
+    DEVICE: cuda
+
+MODEL:
+    NAME: RCAN
+    PRETRAINED: True
+
+DATASET:
+    SR_SCALE: 2

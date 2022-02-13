@@ -1,0 +1,8 @@
+SYSTEM: 
+    DEVICE: cuda
+
+MODEL:
+    PRETRAINED: False
+
+DATASET:
+    SR_SCALE: 2
